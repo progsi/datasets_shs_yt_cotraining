@@ -1,4 +1,4 @@
-# datasets_shs_yt_cotraining
+# Datasets for Co-Training
 Datasets used for cotraining for multimodal cover song identification. Based on SHS100K and an own YouTube-crawl of potential covers.
 `set_id` indicates a clique identifier (based on SHS100K identifiers). `yt_id` indicates a YouTube identifier which can be seen in the YouTube URLs behind the `watch?v=` in URLs of videos. 
 
